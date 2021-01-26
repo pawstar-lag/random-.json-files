@@ -14,5 +14,32 @@
   "spam spam spam":[true, "kind of true", null],
   "real spam":"a little...",
   "real JSON spam":true,
-  }
+  },
+ "huge spam: a repeat":{
+ "spam1":{
+ "spam":true,
+ "not spam":false,
+ "spam2":"not yet",
+ "spam array":["Spam", "sPam", "spAm", "spaM"]
+  },
+  "spam2":{
+  "Super spam":true,
+  "GitHub is cool":true,
+  "GitLab is bad":true,
+  },
+  "spam3":{
+  "spam spam spam":[true, "kind of true", null],
+  "real spam":"a little...",
+  "real JSON spam":true,
+  },
+ },
+ "you like JSON spam?":{
+  "I do.":null,
+  "boo GitLab":true,
+  "lol":[true,"yes, true", "spam"]
+ },
+ "HUGE SPAM: not a repeat":{
+  "spam spam spam spam spam spam spam spam spam spam spam spam":["stop","stop","stop","stop","stop","stop","stop","stop","stop","stop","stop","stop","stop","stop"],
+  "I will not stop":"well, I told you to so stop"
+ }
 }
